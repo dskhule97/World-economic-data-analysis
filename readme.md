@@ -1,7 +1,5 @@
 # Analysis of Economic Data
 
-## Project Overview
-This project was completed as part of the Udacity Data Analyst Nanodegree program.
 
 ## Introduction
 Economic datasets downloaded from [Gapminder](https://www.gapminder.org/data/) were analyzed after the data wrangling process. The aim is to answer the following questions:
